@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U2dYEeiAM0bjD0ADYIk/fACHvGsY5hCTolZfBDxcsD2d6rff6lOxD2Z+eE4px6UMdTyRWvF+ZqXrDkPJQprykQ==",
+  "dgSpecHash": "CeCP/Xf+8pYxyqAMazygpJMtdUUw01BU4w+CZhCaOxN+s/lgffLOu0nTrt5f5lAmae12zZOCOmB5fZtSKbpT8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felipe.santana\\vs\\MiniApi\\MiniApi\\MiniApi.csproj",
+  "projectFilePath": "C:\\MiniApi\\MiniApi\\MiniApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felipe.santana\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.4\\microsoft.entityframeworkcore.6.0.4.nupkg.sha512",
     "C:\\Users\\felipe.santana\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.4\\microsoft.entityframeworkcore.abstractions.6.0.4.nupkg.sha512",

@@ -78,9 +78,21 @@ namespace Tela
         }
         private async void inserir()
         {
+            Random random = new Random();
             Cliente cli = new Cliente();
-            cli.id = 10;
-            cli.Nome = "testando forms";
+            cli.id = random.Next(1, 100);
+            
+            using (FrmInputBox frmInputBox = new FrmInputBox())
+            {
+                frmInputBox.lblTitulo.Text = "Insira o Nome";
+                frmInputBox.ShowDialog();
+
+                if (frmInputBox.ok)
+                {
+                    cli.Nome = Convert.ToString(frmInputBox.valor);
+                }
+            }
+            
             using (var client = new HttpClient())
             {
                 var serializedCliente = JsonConvert.SerializeObject(cli);
@@ -99,9 +111,20 @@ namespace Tela
         }
         private async void editar(int id)
         {
+
             Cliente cli = new Cliente();
             cli.id = id;
-            cli.Nome = "Editando";
+
+            using (FrmInputBox frmInputBox = new FrmInputBox())
+            {
+                frmInputBox.lblTitulo.Text = "Insira o Nome";
+                frmInputBox.ShowDialog();
+
+                if (frmInputBox.ok)
+                {
+                    cli.Nome = Convert.ToString(frmInputBox.valor);
+                }
+            }
 
             using (var client = new HttpClient())
             {

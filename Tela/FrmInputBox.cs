@@ -18,13 +18,13 @@ namespace Tela
 
         }
 
-        public string texto = "digite o ID";
+        public string texto = String.Empty;
         public string valor = string.Empty;
         public bool ok = false;
 
         private void FrmInputBox_Load(object sender, EventArgs e)
         {
-            lblTitulo.Text = texto;
+            //lblTitulo.Text = texto;
         }
 
         private void btnOK_Click(object sender, EventArgs e)

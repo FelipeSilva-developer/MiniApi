@@ -878,11 +878,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felipe.santana\\vs\\MiniApi\\MiniApi\\MiniApi.csproj",
+      "projectUniqueName": "C:\\MiniApi\\MiniApi\\MiniApi.csproj",
       "projectName": "MiniApi",
-      "projectPath": "C:\\Users\\felipe.santana\\vs\\MiniApi\\MiniApi\\MiniApi.csproj",
+      "projectPath": "C:\\MiniApi\\MiniApi\\MiniApi.csproj",
       "packagesPath": "C:\\Users\\felipe.santana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felipe.santana\\vs\\MiniApi\\MiniApi\\obj\\",
+      "outputPath": "C:\\MiniApi\\MiniApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felipe.santana\\AppData\\Roaming\\NuGet\\NuGet.Config",

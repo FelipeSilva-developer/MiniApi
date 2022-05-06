@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felipe.santana\\vs\\MiniApi\\Tela\\Tela.csproj": {}
+    "C:\\MiniApi\\Tela\\Tela.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felipe.santana\\vs\\MiniApi\\Tela\\Tela.csproj": {
+    "C:\\MiniApi\\Tela\\Tela.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felipe.santana\\vs\\MiniApi\\Tela\\Tela.csproj",
+        "projectUniqueName": "C:\\MiniApi\\Tela\\Tela.csproj",
         "projectName": "Tela",
-        "projectPath": "C:\\Users\\felipe.santana\\vs\\MiniApi\\Tela\\Tela.csproj",
+        "projectPath": "C:\\MiniApi\\Tela\\Tela.csproj",
         "packagesPath": "C:\\Users\\felipe.santana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felipe.santana\\vs\\MiniApi\\Tela\\obj\\",
+        "outputPath": "C:\\MiniApi\\Tela\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felipe.santana\\AppData\\Roaming\\NuGet\\NuGet.Config",

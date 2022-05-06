@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yps8E4iGziBhUDvRio+dOO5V8GdCas23lBbIIhbAjJFEwrEuB00V2ZdjdntZDboKIptidM9LUwKpVMV6Jb8F+g==",
+  "dgSpecHash": "S0uPmfpEFHc6FkLHrAbLh9Fjjt6JmweMtibi6AB8vMxoCJXh32nXHyVx62Hw1++QcVLbtgcA4l+Q7HWt4iyE0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felipe.santana\\vs\\MiniApi\\Tela\\Tela.csproj",
+  "projectFilePath": "C:\\MiniApi\\Tela\\Tela.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felipe.santana\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
